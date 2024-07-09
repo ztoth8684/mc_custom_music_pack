@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Frank Sinatra - The Girl from Ipanema",
+    "length_in_seconds": 194.0,
+    "sound_event": {
+      "sound_id":"custom:the_girl_from_ipanema"
+    }
+  }

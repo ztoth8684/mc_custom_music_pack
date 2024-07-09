@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Frank Sinatra - Luck Be a Lady",
+    "length_in_seconds": 314.0,
+    "sound_event": {
+      "sound_id":"custom:luck_be_a_lady"
+    }
+  }

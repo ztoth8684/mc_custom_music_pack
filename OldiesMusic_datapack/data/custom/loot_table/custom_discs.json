@@ -1,0 +1,114 @@
+{
+  "pools": [
+      {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/come_fly_with_me",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/fly_me_to_the_moon",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/go_go_go_go",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/i_feel_a_song_coming_on",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/ive_got_the_world_on_a_string",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/ive_got_you_under_my_skin",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/luck_be_a_lady",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/money_is_a_problem",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/my_way",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/not_enough_indians",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/powder_your_face_with_sunshine",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/promise_her_anything",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/secret",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/somethin_stupid",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/strangers_in_the_night",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/sway",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/thats_life",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/the_best_is_yet_to_come",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/the_girl_from_ipanema",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/the_way_you_look_tonight",
+          "weight":1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "custom:records/youre_nobody_till_somebody_loves_you",
+          "weight":1
+        }
+      ]
+    }
+  ]
+}

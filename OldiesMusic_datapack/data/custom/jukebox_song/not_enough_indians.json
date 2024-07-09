@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Dean Martin - Not Enough Indians",
+    "length_in_seconds": 200.0,
+    "sound_event": {
+      "sound_id":"custom:not_enough_indians"
+    }
+  }

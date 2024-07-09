@@ -1,0 +1,33 @@
+{
+  "pools": [
+      {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_pigstep",
+          "weight":1,
+          "functions": [
+            {
+              "function": "set_custom_model_data",
+              "value":1
+            },
+            {
+              "function":"set_count",
+              "count":1
+            },
+            {
+              "function":"set_components",
+              "components":{
+                  "jukebox_playable":{
+                    "song":"custom:go_go_go_go",
+                    "show_in_tooltip":true
+                }
+              }
+            }
+          ]
+        }
+          ]
+      }
+  ]
+}

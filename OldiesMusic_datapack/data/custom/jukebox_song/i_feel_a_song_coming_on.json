@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Dean Martin - I Feel a Song Coming On",
+    "length_in_seconds": 109.0,
+    "sound_event": {
+      "sound_id":"custom:i_feel_a_song_coming_on"
+    }
+  }

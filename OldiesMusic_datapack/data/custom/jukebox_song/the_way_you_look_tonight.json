@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Frank Sinatra - The Way You Look Tonight",
+    "length_in_seconds": 202.0,
+    "sound_event": {
+      "sound_id":"custom:the_way_you_look_tonight"
+    }
+  }

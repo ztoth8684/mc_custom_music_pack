@@ -1,0 +1,193 @@
+{
+  "pools": [
+    {
+    "rolls": 1,
+    "entries": [
+      {
+        "type": "minecraft:loot_table",
+        "value": "custom:records/come_fly_with_me"
+      }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/fly_me_to_the_moon"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/go_go_go_go"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/i_feel_a_song_coming_on"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/ive_got_the_world_on_a_string"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/ive_got_you_under_my_skin"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/luck_be_a_lady"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/money_is_a_problem"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/my_way"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/not_enough_indians"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/powder_your_face_with_sunshine"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/promise_her_anything"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/secret"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/somethin_stupid"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/strangers_in_the_night"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/sway"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/thats_life"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/the_best_is_yet_to_come"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/the_girl_from_ipanema"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/the_way_you_look_tonight"
+          }
+        ]
+    },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "custom:records/youre_nobody_till_somebody_loves_you"
+          }
+        ]
+      }
+    ]
+  }

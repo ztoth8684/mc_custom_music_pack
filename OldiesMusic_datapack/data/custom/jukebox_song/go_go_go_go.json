@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Dean Martin - Go, Go, Go, Go",
+    "length_in_seconds": 141.0,
+    "sound_event": {
+      "sound_id":"custom:go_go_go_go"
+    }
+  }

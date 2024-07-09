@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Frank Sinatra - Come Fly With Me",
+    "length_in_seconds": 197.0,
+    "sound_event": {
+      "sound_id":"custom:come_fly_with_me"
+    }
+  }

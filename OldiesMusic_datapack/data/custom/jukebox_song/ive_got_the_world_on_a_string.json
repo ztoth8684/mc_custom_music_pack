@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Frank Sinatra - I've Got the World On a String",
+    "length_in_seconds": 130.0,
+    "sound_event": {
+      "sound_id":"custom:ive_got_the_world_on_a_string"
+    }
+  }

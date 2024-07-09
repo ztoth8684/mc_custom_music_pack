@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Dean Martin - Sway",
+    "length_in_seconds": 164.0,
+    "sound_event": {
+      "sound_id":"custom:sway"
+    }
+  }
