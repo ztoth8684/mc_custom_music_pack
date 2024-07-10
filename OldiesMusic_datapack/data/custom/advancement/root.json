@@ -1,0 +1,35 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:music_disc_pigstep",
+			"components": {
+				"minecraft:custom_model_data": 1
+			}
+		},
+		"title": "Custom Music",
+		"frame": "challenge",
+		"description": [
+			"",
+			{
+				"text": "Adds custom music discs, with music by Frank Sinatra and Dean Martin\n\n",
+				"color": "gold"
+			},
+			{
+				"text": "Creepers will drop these discs if killed by Pillagers. Or, if you're impatient, use ",
+				"color": "yellow"
+			},
+			{
+				"text": "/loot give @s loot custom:all_discs",
+				"color": "aqua"
+			}
+		],
+		"background": "minecraft:textures/block/lapis_block.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
