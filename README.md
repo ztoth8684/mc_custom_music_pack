@@ -1,5 +1,7 @@
 # OldiesMusic Minecraft Datapack / Resource Pack
  datapack / resource pack to add custom music discs to the game
+
+ Click `Code` > `Download ZIP`
  
  Place `OldiesMusic_datapack` in the `datapack` folder for the world
  Place `OldiesMusic_resourcepack` in your `resourcepack` folder
