@@ -6,6 +6,8 @@
  Place `OldiesMusic_datapack` in the `datapack` folder for the world
  Place `OldiesMusic_resourcepack` in your `resourcepack` folder
  *or* place `resources.zip` in the world folder
+
+ Press `L` in game to open the advancements tab for more information.
 ## Discography
 Come Fly With Me – Frank Sinatra
 
