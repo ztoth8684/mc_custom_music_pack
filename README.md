@@ -1,5 +1,6 @@
 # OldiesMusic Minecraft Datapack / Resource Pack
  datapack / resource pack to add custom music discs to the game
+ for version 1.21–1.21.1
 
  Click `Code` > `Download ZIP`
  
